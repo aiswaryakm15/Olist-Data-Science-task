@@ -12,4 +12,4 @@ This project contains SQL analysis performed on the Brazilian E-Commerce Public 
 
 Tools used:
 - MySQL
-- SQL
+  

@@ -1,0 +1,6 @@
+stage,order_count,conversion_percent,drop_off_percent
+"Orders placed",35071,100.00,0.00
+"Orders paid",15312,43.66,56.34
+"Orders shipped",405,2.64,97.36
+"Orders delivered",34029,8402.22,-8302.22
+"Orders reviewed",115,0.34,99.66
